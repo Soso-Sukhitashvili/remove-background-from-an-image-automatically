@@ -1,2 +1,2 @@
 # Remove Background From an Image Automatically
-the module can remove background from an image automatically.
+The module can remove background (with some threshold) from an image automatically.
